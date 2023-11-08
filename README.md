@@ -100,3 +100,8 @@
     1. 알람 설정한 시각이 되면 LED 점멸
 
 ---
+
+<img width="910" alt="스크린샷 2023-11-08 오후 3 03 41" src="https://github.com/actorjung/Embedded_System/assets/112843229/317e1c3f-9fb5-498c-a505-a527b8fb561f">
+
+
+---
